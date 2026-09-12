@@ -1,0 +1,6 @@
+{
+  "name": "NailArt AI Studio - شبیه‌ساز هوشمند لاک و طراحی ناخن",
+  "description": "شبیه‌سازی دقیق و طبیعی رنگ لاک، برق، سایه سه‌بعدی و انواع طرح‌های ناخن روی عکس دست با پوشش کامل طرح قبلی",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
