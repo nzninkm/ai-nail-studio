@@ -45,6 +45,22 @@ bash
 git clone https://github.com/nzninkm/ai-nail-studio.git
 cd ai-nail-studio
 
-
-
-
+2. Install dependencies
+code
+Bash
+npm install
+3. Configure environment variables
+Create a .env file in the root directory:
+code
+Env
+GEMINI_API_KEY=your_gemini_api_key_here
+4. Start the development server
+code
+Bash
+npm run dev
+Open your browser and navigate to http://localhost:3000.
+📦 Build for Production
+code
+Bash
+npm run build
+npm start
