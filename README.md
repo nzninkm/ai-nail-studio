@@ -42,7 +42,7 @@ An AI-driven virtual nail salon and try-on application built with React, TypeScr
 
 1. Clone the repository
 bash
-git clone https://github.com/YOUR_USERNAME/ai-nail-studio.git
+git clone https://github.com/nzninkm/ai-nail-studio.git
 cd ai-nail-studio
 
 
